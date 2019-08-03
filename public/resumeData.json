@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name":"Hiên",
+    "occupation":"Software Engineer",
+    "description":"I am 2 online courses away from finishing my ",
+    "school":"Ho Chi Minh City University of Technology",
+    "degree":"Bachelors in Computer Science",
+    "image":"profile_pic.jpg",
+    "overview":"I am a Software Engineer at Viettel Inc and a founder of Nedclass - a start up of education. I came from Buon Ma Thuot City and went to Ho Chi Minh City to learn and work. I graduated from Ho Chi Minh City of Technology.",
+    "bio":"I am an athlete at heart, with an engineer spirit, a knack for mobile developer, and backend server side. In two years, I worked at VNG Corp then I move to Viettel Inc. By the way, I also created a start up team with name \"Nedclass\" - Learning with famus people.  But i really want to be a good Software Engineer, i have to work with more professional people, i have to learn more and more and I am always looking for the best place to work so that I can develop my full potential and creativity. Better and better - that is my goal.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "hien798@gmail.com",
+    "phone": "(+84)977698305",
+    "address":{
+      "street":"623 Dien Bien Phu St.",
+      "city":"Ward 1, District 3",
+      "state":"Ho Chi Minh City",
+      "zip": "700 000"
+    },
+    "website": "http://www.nedclass.com",
+    "resumedownload":"resume.pdf",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hien798/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/hien798",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://skype.com/hien798",
+        "className":"fa fa-skype"
+      },
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/nvhbk",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/nvhbk",
+        "className":"fa fa-instagram"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I'm a athlete at heart and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education":[
+      {
+        "school":"Ho Chi Minh City University of Technology",
+        "degree":"Bachelors in Computer Science",
+        "graduated":"June 2018",
+        "description":"Ho Chi Minh City of Technology - Bach Khoa Ho Chi Minh: Here I took my Bachelors of Computer Science and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      }
+    ],
+    "work":[
+      {
+        "company":"Viettel",
+        "title":"Software Engineer - Fullstack Developer",
+        "years":"October 2018 - now",
+        "description":"At here, I am a full stack developer. I worked for DMS products, this is the time I controll all process off a big system. Working with teammate, I have to devide and manage of everyone of my team. My team is not big, but it is enough for me to know \"Developer isn't just coding\"."
+      },
+      {
+        "company":"VNG",
+        "title":"Software Engineer - iOS Developer",
+        "years":"December 2017 - July 2018",
+        "description":"Mobile Developer is the best favorite part of IT. So after 2 months of completing all subjects at my university, I returned to VNG again with the position of iOS Developer. I work for many team such as Game Tech, Payment, Zalo"
+      },
+      {
+        "company":"VNG",
+        "title":"Software Engineer - Java Backend Developer",
+        "years":"June 2017 - September 2017",
+        "description":"This is my first company. When i was a student, i learned a lot of useful things here: How to work in a office? How to work with a big group? How to use a technology to a project?,... and many get lots of knowladge to become a \"Real\" Software Engineer."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Swift",
+        "description":"A model programming language, very easy to use for iOS and mac project. I used for a lot of projects on work.",
+        "image":"swift.png"
+      },
+      {
+        "name":"JavaScript",
+        "description":"Cant say anythings more, JS is the most popular language. I can use it for NodeJS, ReactJS, React-Native. My resume based on ReactJS",
+        "image":"js.png"
+      },
+      {
+        "name":"Java",
+        "description":"Java is my server-side scripting language of choice and used for Android. The bulk of my experience with it has been in conjunction with Spring projects.",
+        "image":"java.png"
+      },
+      {
+        "name":"Objective-C",
+        "description":"This is the first languge, i have to learn at work. A lot of big projects still use it, so Obj-C is so important. My company use Obj-C as main language for develop for all products",
+        "image":"objc.png"
+      },
+      {
+        "name":"Flutter",
+        "description":"Recently, I try to learn Flutter with Dart language, it is so crazy. Flutter can develop for multi platform: Mobile (iOS, Android), Desktop (Mac, Linux, Window) with only one source code. Not using any brigde so very strong. I think we should learn flutter for future.",
+        "image":"flutter.png"
+      },
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image":"git.png"
+      },
+      {
+        "name":"Oracle",
+        "description":"I have used many different database systems and am better educated and experienced with Relational Databases. However, for many applications, the ease of use of NoSQL better suits my needs and it is much more enjoyable to work with",
+        "image":"oracle.png"
+      },
+      {
+        "name":"AWS",
+        "description":"I use AWS as my cloud computer, this is the best choice for deploy a server and many other products for me.",
+        "image":"aws.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Đạm Cà Mau",
+        "category":"I join this project as iOS Developer and Backend Developer. This is 1 in 2 client iOS app.",
+        "image":"dcm.jpg",
+        "url":"https://apps.apple.com/hn/app/%C4%91%E1%BA%A1m-c%C3%A0-mau/id1454785648"
+      },
+      {
+        "title":"DMS One",
+        "category":"I join full for this project. It includes many components: page admin (Java), webapp (Java), server (Nginx), database (Oracle), Android (Java), iOS (Obj-C)",
+        "image":"dmsone-android.png",
+        "url":"http://dmsone.vn"
+      },
+      {
+        "title":"DMS One",
+        "category":"This is iOS version of client app",
+        "image":"dmsone.jpg",
+        "url":"https://apps.apple.com/br/app/dmsone/id1363877343?app=itunes&ign-mpt=uo%3D4"
+      },
+      {
+        "title":"Nedclass",
+        "category":"Yaya, my team's start up, we have a website, app mobile, backend and AWS hosting.",
+        "image":"nedclass.png",
+        "url":"https://nedclass.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"If you’re trying to achieve, there will be roadblocks. I’ve had them; everybody has had them. But obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up. Figure out how to climb it, go through it, or work around it.",
+        "user":"Michael Jordan"
+      }
+    ]
+  }
+}
