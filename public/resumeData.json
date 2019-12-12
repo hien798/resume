@@ -6,8 +6,8 @@
     "school":"Ho Chi Minh City University of Technology",
     "degree":"Bachelors in Computer Science",
     "image":"profile_pic.jpg",
-    "overview":"I am a Software Engineer at Viettel Inc and a founder of Nedclass - a start up of education. I came from Buon Ma Thuot City and went to Ho Chi Minh City to learn and work. I graduated from Ho Chi Minh City of Technology.",
-    "bio":"I am an athlete at heart, with an engineer spirit, a knack for mobile developer, and backend server side. In two years, I worked at VNG Corp then I move to Viettel Inc. By the way, I also created a start up team with name \"Nedclass\" - Learning with famus people.  But i really want to be a good Software Engineer, i have to work with more professional people, i have to learn more and more and I am always looking for the best place to work so that I can develop my full potential and creativity. Better and better - that is my goal.",
+    "overview":"I am a Software Engineer at Sendo Co.ltd and a founder of Nedclass - a start up of education. I came from Buon Ma Thuot City and went to Ho Chi Minh City to learn and work. I graduated from Ho Chi Minh City of Technology.",
+    "bio":"I am an athlete at heart, with an engineer spirit, a knack for mobile developer and backend server side. In two years, I worked at VNG Corp then I move to Viettel Inc. And now, i work at Sendo Co.ltd. By the way, I also created a start up team with name \"Nedclass\" - Learning with famus people.  But i really want to be a good Software Engineer, i have to work with more professional people, i have to learn more and more and I am always looking for the best place to work so that I can develop my full potential and creativity. Better and better - that is my goal.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
     "email": "hien798@gmail.com",
     "phone": "(+84)977698305",
@@ -59,10 +59,16 @@
     ],
     "work":[
       {
+        "company":"Sendo",
+        "title":"Software Engineer",
+        "years":"September 2019 - now",
+        "description":"In the production team, I have to learn a lot about software development processes, teamwork skills, system operations processes with company experts. Therefore, I have gained a lot of useful experiences for my career path later."
+      },
+      {
         "company":"Viettel",
-        "title":"Software Engineer - Fullstack Developer",
-        "years":"October 2018 - now",
-        "description":"At here, I am a full stack developer. I worked for DMS products, this is the time I controll all process off a big system. Working with teammate, I have to devide and manage of everyone of my team. My team is not big, but it is enough for me to know \"Developer isn't just coding\"."
+        "title":"Software Engineer - Fullstack Developer - Team Leader",
+        "years":"October 2018 - August 2019",
+        "description":"At here, I am a full stack developer. I worked for DMS products, Viettel Pay Service, this is the time I controll all process off a big system. Working with teammate, I have to devide and manage of everyone of my team. My team is not big, but it is enough for me to know \"Developer isn't just coding\"."
       },
       {
         "company":"VNG",
@@ -131,20 +137,44 @@
       {
         "title":"DMS One",
         "category":"I join full for this project. It includes many components: page admin (Java), webapp (Java), server (Nginx), database (Oracle), Android (Java), iOS (Obj-C)",
-        "image":"dmsone-android.png",
+        "image":"dmsone.jpg",
         "url":"http://dmsone.vn"
       },
       {
-        "title":"DMS One",
-        "category":"This is iOS version of client app",
-        "image":"dmsone.jpg",
-        "url":"https://apps.apple.com/br/app/dmsone/id1363877343?app=itunes&ign-mpt=uo%3D4"
+        "title":"ViettelPay",
+        "category":"Integrate viettelpay payment on other company's products.",
+        "image":"viettelpay.png",
+        "url":"https://viettelpay.vn/"
       },
       {
         "title":"Nedclass",
         "category":"Yaya, my team's start up, we have a website, app mobile, backend and AWS hosting.",
         "image":"nedclass.png",
         "url":"https://nedclass.com/"
+      },
+      {
+        "title":"Zalo Pay",
+        "category":"This is my first team, a start to my career",
+        "image":"zalopay.png",
+        "url":"https://zalopay.vn/"
+      },
+      {
+        "title":"Zalo",
+        "category":"This is a very big team, where there are many talented people, where I learned the most from when I stepped out of the university.",
+        "image":"zalo.ico",
+        "url":"https://zalo.me/"
+      },
+      {
+        "title":"Sendo",
+        "category":"In the promotion team, where user traffic is always the largest of the Sendo system, I'm proud to be one of the people who built these extremely stable components.",
+        "image":"sendo.png",
+        "url":"https://sendo.vn/"
+      },
+      {
+        "title":"Senpay",
+        "category":"Although newly established, Senpay has played a significant role in the development of Sendo, is the fastest and most convenient payment gateway for users when shopping on Sendo.",
+        "image":"senpay.png",
+        "url":"https://senpay.vn/"
       }
     ]
   },
